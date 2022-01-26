@@ -311,7 +311,98 @@ main{
 
 .titolo-divisorio h1{
     margin-bottom: 30px;
+    width: 45%;
 }
 
 
+/* sezione loghi */
+.big-container{
+    width: 100%;
+    height: 500px;
+    background-color: lightgrey;
+}
 
+.aziende{
+    width: 30%;
+    height: 500px;
+}
+
+.descrizione-middle{
+    width: 40%;
+    height: 500px;
+}
+
+.icon-container{
+    width: 100%;
+    height: 500px ;
+}
+
+.icon{
+    width: 50%;
+    height: 250px;
+    position: relative;
+}
+
+.icon img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 200px;
+}
+
+
+/* colori background */
+.designt{
+    background-color: lightgreen;
+    border: 10px solid greenyellow;
+}
+
+.asu{
+    background-color: hotpink;
+}
+
+.uf-florida{
+    background-color: indigo;
+}
+
+.toops{
+    background-color: purple;
+}
+
+.world{
+    background-color: blue;
+}
+
+.hearts{
+    background-color: lightblue;
+}
+
+.lonely{
+    background-color: lightskyblue;
+}
+
+.clear{
+    background-color: maroon;
+}
+
+.contenuto-descrizione{
+    margin: auto;
+    width: 80%;
+}
+
+.contenuto-descrizione img{
+    width: 200px;
+    margin: 50px 0px;
+}
+
+.barra{
+    width: 100px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 50px;
+}
+
+.contenuto-descrizione h6{
+    margin-top: 30px;
+    font-size: 1em;
+}
