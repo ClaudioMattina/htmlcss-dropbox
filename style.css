@@ -276,3 +276,21 @@ main{
     color: black;
     border-color: black;
 }
+
+.titolo-mezzapagina h1{
+    margin: 60px 0px 40px 0px;
+}
+
+.tessere-container{
+    width: 100%;
+}
+
+.tessera{
+    width: 30%;
+    height: 200px;
+    background-color: blueviolet;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+
