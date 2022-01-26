@@ -110,7 +110,6 @@ body{
 main{
     width: 65%;
     background-color: yellowgreen;
-    height: 800px;
     margin: auto;
     margin-top: 100px;
 }
@@ -125,15 +124,19 @@ main{
     margin-bottom: 40px;
 }
 
+
+/* top colonna */
 .top-colon{
-    width: 33%;
+    width: 30%;
     text-align: center;
     border: 1px solid grey;
     padding: 10px 0px;
 }
 
+
+/* colonna */
 .colon{
-    width: 33%;
+    width: 30%;
     border: 1px solid grey;
     padding: 0px 25px;
 }
@@ -196,3 +199,4 @@ main{
 .colon ul{
     margin-bottom: 150px;
 }
+
