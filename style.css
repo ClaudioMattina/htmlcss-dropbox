@@ -109,7 +109,6 @@ body{
 /* main */
 main{
     width: 65%;
-    background-color: yellowgreen;
     margin: auto;
     margin-top: 100px;
 }
@@ -127,16 +126,14 @@ main{
 
 /* top colonna */
 .top-colon{
-    width: 30%;
     text-align: center;
-    border: 1px solid grey;
+    border-bottom: 1px solid grey;
     padding: 10px 0px;
 }
 
 
 /* colonna */
 .colon{
-    width: 30%;
     border: 1px solid grey;
     padding: 0px 25px;
 }
@@ -193,10 +190,17 @@ main{
 .colon li{
     padding: 10px 0px;
     list-style:none;
-    list-style-type: <i class="fas fa-check"></i>;
 }
 
 .colon ul{
     margin-bottom: 150px;
 }
 
+.colon-container{
+    width: 30%;
+}
+
+.center{
+    margin-left: 5%;
+    margin-right: 5%;
+}
