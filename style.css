@@ -48,6 +48,7 @@ body{
 
 .header-container li:hover{
     border-color: black;
+    background-color: lightblue;
 }
 
 .tendina{
