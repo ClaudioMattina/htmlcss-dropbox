@@ -43,6 +43,11 @@ body{
 .header-container li{
     display: inline-block;
     margin: 0 25px;
+    border-bottom: 3px solid white;
+}
+
+.header-container li:hover{
+    border-color: black;
 }
 
 .tendina{
